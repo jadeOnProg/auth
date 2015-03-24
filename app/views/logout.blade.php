@@ -1,0 +1,1 @@
+<a href="<?php echo URL::to('/logout') ?>">Logout</a>
